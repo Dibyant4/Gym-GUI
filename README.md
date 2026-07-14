@@ -7,7 +7,7 @@ A desktop-based Gym Management System developed using <strong>Java Swing</strong
 </p>
 
 <p align="center">
-
+  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Object%20Oriented-Programming-blue?style=for-the-badge)
