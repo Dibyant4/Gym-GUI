@@ -1,0 +1,10 @@
+*.class
+*.ctxt
+
+.DS_Store
+
+.vscode/
+
+bin/
+build/
+out/
